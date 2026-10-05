@@ -8,17 +8,20 @@ I build machine learning and agentic systems, working hands-on in Python and Typ
 ## Selected experience
 
 - **Configit AS — Principal AI Engineer | Interim Product Owner**
-  Lead architecture and development of Ace-Prompt, bringing agentic AI capabilities to Configit's enterprise configuration platform.
+
+  I lead architecture and development of Ace-Prompt, bringing agentic AI capabilities to Configit's enterprise configuration platform.
 
 - **Brüel & Kjær Vibro — Head of AI and Analytics Team**
-  Built and mentored an AI team of five developing models for the BKV Beyond condition monitoring platform.
+
+  I built and mentored an AI team of five developing models for the BKV Beyond condition monitoring platform.
 
 - **DivERS Tech — Founder and CTO**
-  Founded DivERS Tech and led development of AI recruitment tools aimed at reducing bias.
+
+  I founded DivERS Tech and led development of AI recruitment tools aimed at reducing bias.
 
 ## Coding agents
 
-Maintain a version-controlled developer setup with shared instructions and skills for Claude Code and Codex. Define workflows for specification, implementation, diff review, runtime QA, and human acceptance.
+I use Claude Code and Codex for software development, with workflows that separate specification, implementation, review, and runtime testing. I review the resulting changes against acceptance criteria before accepting them.
 
 ## Connect
 
