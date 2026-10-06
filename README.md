@@ -7,15 +7,15 @@ I build machine learning, deep learning, and agentic AI applications, with exper
 
 ## Selected experience
 
-- **Configit AS — Principal AI Engineer | Interim Product Owner**
+- **Configit AS | Principal AI Engineer | Interim Product Owner**
 
   I lead architecture and development of Ace-Prompt, bringing agentic AI capabilities to Configit's enterprise configuration platform.
 
-- **Brüel & Kjær Vibro — Head of AI and Analytics Team**
+- **Brüel & Kjær Vibro | Head of AI and Analytics Team**
 
   I built and mentored an AI team of five developing models for the BKV Beyond condition monitoring platform.
 
-- **DivERS Tech — Founder and CTO**
+- **DivERS Tech | Founder and CTO**
 
   I founded DivERS Tech and led development of AI recruitment tools aimed at reducing bias.
 
