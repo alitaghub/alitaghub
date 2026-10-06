@@ -3,7 +3,7 @@
 
 **Principal AI Engineer · Copenhagen, Denmark**
 
-I build machine learning, deep learning, and agentic AI applications, working hands-on in Python and TypeScript. My experience spans research, AI product development, and leading engineering teams.
+I build machine learning, deep learning, and agentic AI applications, with experience fine-tuning LLMs. I work hands-on in Python and TypeScript. My experience spans research, AI product development, and leading engineering teams.
 
 ## Selected experience
 
