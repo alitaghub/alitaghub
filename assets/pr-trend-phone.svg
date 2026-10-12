@@ -5,20 +5,21 @@
 <text x="140.0" y="98.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#a3aec8" text-anchor="start">more merged pull requests</text>
 <text x="140.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#a3aec8" text-anchor="start">per month in 2026 than in 2025</text>
 <line x1="40" x2="680" y1="420" y2="420" stroke="#2a3556"/>
-<rect x="63.0" y="413.6" width="81.9" height="6.4" rx="5" fill="#2dd4bf"/>
+<rect x="63.0" y="414.2" width="81.9" height="5.8" rx="5" fill="#2dd4bf"/>
 <text x="104.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q3</text>
 <text x="104.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2025</text>
-<rect x="191.0" y="396.2" width="81.9" height="23.8" rx="5" fill="#2dd4bf"/>
+<rect x="191.0" y="398.3" width="81.9" height="21.7" rx="5" fill="#2dd4bf"/>
 <text x="232.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q4</text>
 <text x="232.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
-<rect x="319.0" y="400.8" width="81.9" height="19.2" rx="5" fill="#2dd4bf"/>
+<rect x="319.0" y="402.5" width="81.9" height="17.5" rx="5" fill="#2dd4bf"/>
 <text x="360.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q1</text>
 <text x="360.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2026</text>
-<rect x="447.0" y="376.0" width="81.9" height="44.0" rx="5" fill="#2dd4bf"/>
+<rect x="447.0" y="380.0" width="81.9" height="40.0" rx="5" fill="#2dd4bf"/>
 <text x="488.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q2</text>
 <text x="488.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
-<rect x="575.0" y="204.6" width="81.9" height="215.4" rx="5" fill="#fbbf24"/>
+<rect x="575.0" y="224.2" width="81.9" height="195.8" rx="5" fill="#fbbf24"/>
 <text x="616.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q3</text>
+<text x="616.0" y="212.2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e6ebf5" text-anchor="middle">~235</text>
 <text x="616.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
 <text x="32.0" y="520.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="start">Merged PRs on github.com since joining Configit</text>
 </svg>
