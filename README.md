@@ -66,7 +66,9 @@ Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS T
 
 ### Research background
 
-Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials: 50+ papers, h-index 20, 2,100+ citations, and contributions to the open-source [GPAW](https://gpaw.readthedocs.io/) code. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
+Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials, and contributed to the open-source [GPAW](https://gpaw.readthedocs.io/) code. My 50+ papers have 2,200+ citations and an h-index of 20, and they are cited more every year. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
+
+<p align="center"><img src="assets/citations.svg" alt="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" width="100%"/></p>
 
 ### Connect
 
