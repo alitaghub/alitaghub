@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. From physics research to data science, machine learning and agentic AI." width="560"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. From photonics research to machine learning and deep learning to agentic AI." width="560"/></p>
 
 <p align="center">
   <b>Data science · machine learning · agentic AI · product</b><br/>
