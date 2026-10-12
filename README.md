@@ -23,8 +23,6 @@ I lead the architecture and hands-on development of **Ace Prompt** at Configit, 
 
 At Configit I build tool-using agents with planning, subagents and human approval at high-risk steps, on LangGraph and Azure. We use evaluations and trace review to catch regressions before release.
 
-Most of my recent code lives in private company repositories.
-
 **Stack:** agentic AI · LLM applications · RAG · LLM evaluation and tracing · LLM fine-tuning (BERT, FLAN-T5) · LangGraph · LangChain · Python · TypeScript · Next.js · PyTorch · FastAPI · MLflow · Docker · Azure · AWS
 
 ### Experience
