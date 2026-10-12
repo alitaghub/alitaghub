@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" role="img" aria-label="Alireza Taghizadeh: Principal AI Engineer. I build AI agents that ship, and I ship with AI agents.">
+<defs><linearGradient id="sp" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset=".4" stop-color="#60a5fa"/><stop offset=".7" stop-color="#2dd4bf"/><stop offset="1" stop-color="#fbbf24"/></linearGradient></defs>
+<rect width="1200" height="260" rx="16" fill="#0c1222"/>
+<polyline points="560.0,130.0 564.0,137.8 568.0,145.1 572.0,151.4 576.0,156.4 580.0,159.8 584.0,161.6 588.0,161.5 592.0,159.8 596.0,156.4 600.0,151.7 604.0,145.9 608.0,139.4 612.0,132.4 616.0,125.6 620.0,119.1 624.0,113.3 628.0,108.6 632.0,105.2 636.0,103.3 640.0,102.8 644.0,103.8 648.0,106.3 652.0,110.0 656.0,114.6 660.0,120.1 664.0,125.9 668.0,131.7 672.0,137.4 676.0,142.4 680.0,146.7 684.0,149.9 688.0,151.9 692.0,152.7 696.0,152.2 700.0,150.5 704.0,147.8 708.0,144.1 712.0,139.8 716.0,135.1 720.0,130.3 724.0,125.6 728.0,121.3 732.0,117.6 736.0,114.8 740.0,112.8 744.0,111.9 748.0,112.0 752.0,113.1 756.0,115.1 760.0,117.8 764.0,121.1 768.0,124.7 772.0,128.5 776.0,132.2 780.0,135.6 784.0,138.6 788.0,140.9 792.0,142.6 796.0,143.5 800.0,143.6 804.0,143.0 808.0,141.6 812.0,139.7 816.0,137.4 820.0,134.8 824.0,132.1 828.0,129.4 832.0,126.9 836.0,124.7 840.0,123.0 844.0,121.7 848.0,121.0 852.0,120.9 856.0,121.2 860.0,122.1 864.0,123.3 868.0,124.8 872.0,126.4 876.0,128.2 880.0,129.8 884.0,131.3 888.0,132.6 892.0,133.6 896.0,134.3 900.0,134.7" fill="none" stroke="url(#sp)" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="905" y1="128" x2="960" y2="88" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="905" y1="128" x2="965" y2="170" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="960" y1="88" x2="1030" y2="60" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="960" y1="88" x2="1035" y2="130" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="965" y1="170" x2="1035" y2="130" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="965" y1="170" x2="1040" y2="200" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1030" y1="60" x2="1105" y2="95" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1035" y1="130" x2="1105" y2="95" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1035" y1="130" x2="1110" y2="165" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1040" y1="200" x2="1110" y2="165" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1105" y1="95" x2="1160" y2="128" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<line x1="1110" y1="165" x2="1160" y2="128" stroke="#fbbf24" stroke-opacity=".35" stroke-width="1.3"/>
+<circle cx="905" cy="128" r="7" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="960" cy="88" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="965" cy="170" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1030" cy="60" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1035" cy="130" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1040" cy="200" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1105" cy="95" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1110" cy="165" r="5" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="1160" cy="128" r="7" fill="#0c1222" stroke="#fbbf24" stroke-width="2"/>
+<text x="560" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#93a0bd">photons</text>
+<text x="1160" y="236" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#93a0bd">agents</text>
+<text x="56" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6ebf5">Alireza Taghizadeh</text>
+<text x="56" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#fbbf24">Principal AI Engineer · Configit</text>
+<text x="56" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#93a0bd">I build AI agents that ship, and I ship with AI agents.</text>
+<text x="56" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#93a0bd">Copenhagen, Denmark</text>
+</svg>
