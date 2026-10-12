@@ -93,4 +93,4 @@ Before industry I did a PhD in photonics at DTU and a postdoc in ML for material
 
 ### Connect
 
-Happy to talk about agent architecture, AI evals and shipping with coding agents. [LinkedIn](https://www.linkedin.com/in/alirezataghizadeh/) · [Email](mailto:a.r.taghizadeh@gmail.com)
+Happy to talk about agent architecture, AI evals and shipping with coding agents. [Website and CV](https://alitaghub.github.io) · [LinkedIn](https://www.linkedin.com/in/alirezataghizadeh/) · [Email](mailto:a.r.taghizadeh@gmail.com)
