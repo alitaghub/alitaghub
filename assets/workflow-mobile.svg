@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 382" width="100%" role="img" aria-label="Coding-agent workflow: spec, tickets, tests first, build, review, runtime QA, human acceptance">
+<rect width="720" height="382" rx="18" fill="#0c1222"/>
+<text x="32.0" y="48.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="400" fill="#7dd3fc" text-anchor="start">$ how-i-ship --with-agents</text>
+<rect x="30.0" y="86" width="150" height="96" rx="12" fill="#16203a" stroke="#a78bfa" stroke-width="2"/>
+<text x="105.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#a78bfa" text-anchor="middle">Spec</text>
+<text x="105.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">grill the plan</text>
+<rect x="200.0" y="86" width="150" height="96" rx="12" fill="#16203a" stroke="#a78bfa" stroke-width="2"/>
+<text x="275.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#a78bfa" text-anchor="middle">Tickets</text>
+<text x="275.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">small, testable</text>
+<rect x="370.0" y="86" width="150" height="96" rx="12" fill="#16203a" stroke="#60a5fa" stroke-width="2"/>
+<text x="445.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#60a5fa" text-anchor="middle">Tests</text>
+<text x="445.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">written first</text>
+<rect x="540.0" y="86" width="150" height="96" rx="12" fill="#16203a" stroke="#2dd4bf" stroke-width="2"/>
+<text x="615.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2dd4bf" text-anchor="middle">Build</text>
+<text x="615.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">Claude, Codex</text>
+<rect x="540.0" y="246" width="150" height="96" rx="12" fill="#16203a" stroke="#2dd4bf" stroke-width="2"/>
+<text x="615.0" y="288.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2dd4bf" text-anchor="middle">Review</text>
+<text x="615.0" y="320.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">parallel agents</text>
+<rect x="370.0" y="246" width="150" height="96" rx="12" fill="#16203a" stroke="#fbbf24" stroke-width="2"/>
+<text x="445.0" y="288.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#fbbf24" text-anchor="middle">QA</text>
+<text x="445.0" y="320.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">run the real app</text>
+<rect x="200.0" y="246" width="150" height="96" rx="12" fill="#16203a" stroke="#fbbf24" stroke-width="2"/>
+<text x="275.0" y="288.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#fbbf24" text-anchor="middle">Accept</text>
+<text x="275.0" y="320.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">by me</text>
+<path d="M183.0 134.0 L197.0 134.0 M189.0 128.0 L197.0 134.0 L189.0 140.0" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M353.0 134.0 L367.0 134.0 M359.0 128.0 L367.0 134.0 L359.0 140.0" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M523.0 134.0 L537.0 134.0 M529.0 128.0 L537.0 134.0 L529.0 140.0" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M615.0 185 L615.0 243 M609.0 235 L615.0 243 L621.0 235" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M537.0 294.0 L523.0 294.0 M531.0 288.0 L523.0 294.0 L531.0 300.0" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M367.0 294.0 L353.0 294.0 M361.0 288.0 L353.0 294.0 L361.0 300.0" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<text x="528.0" y="228.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="end">findings go back</text>
+</svg>

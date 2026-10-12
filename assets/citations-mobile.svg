@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 512" width="100%" role="img" aria-label="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20">
+<rect width="720" height="512" rx="18" fill="#0c1222"/>
+<text x="32.0" y="48.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="400" fill="#7dd3fc" text-anchor="start">$ scholar citations --by year</text>
+<text x="32.0" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6ebf5" text-anchor="start">2,282</text>
+<text x="196.0" y="116.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#a3aec8" text-anchor="start">citations</text>
+<text x="32.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#e6ebf5" text-anchor="start">h-index 20 · i10-index 22</text>
+<line x1="40" x2="680" y1="410" y2="410" stroke="#2a3556"/>
+<rect x="48.0" y="403.0" width="37.3" height="7.0" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<text x="66.7" y="440.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2015</text>
+<rect x="101.3" y="386.3" width="37.3" height="23.7" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="154.7" y="391.7" width="37.3" height="18.3" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="208.0" y="393.3" width="37.3" height="16.7" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<text x="226.7" y="440.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2018</text>
+<rect x="261.3" y="385.1" width="37.3" height="24.9" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="314.7" y="385.9" width="37.3" height="24.1" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="368.0" y="358.3" width="37.3" height="51.7" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<text x="386.7" y="440.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2021</text>
+<rect x="421.3" y="336.1" width="37.3" height="73.9" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="474.7" y="305.0" width="37.3" height="105.0" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<rect x="528.0" y="264.2" width="37.3" height="145.8" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<text x="546.7" y="440.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2024</text>
+<rect x="581.3" y="206.6" width="37.3" height="203.4" rx="4" fill="#a78bfa" fill-opacity="1"/>
+<text x="600.0" y="196.6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6ebf5" text-anchor="middle">523</text>
+<rect x="634.7" y="219.1" width="37.3" height="190.9" rx="4" fill="#a78bfa" fill-opacity="0.5"/>
+<text x="680.0" y="440.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#fbbf24" text-anchor="end">2026 so far</text>
+<text x="32.0" y="488.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="start">Source: Google Scholar, October 2026</text>
+</svg>

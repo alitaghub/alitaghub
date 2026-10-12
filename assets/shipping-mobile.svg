@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 545" width="100%" role="img" aria-label="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026">
+<rect width="720" height="545" rx="18" fill="#0c1222"/>
+<text x="32.0" y="48.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="400" fill="#7dd3fc" text-anchor="start">$ gh pr list --merged --by quarter</text>
+<text x="32.0" y="112.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6ebf5" text-anchor="start">~6×</text>
+<text x="140.0" y="98.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#a3aec8" text-anchor="start">more merged pull requests</text>
+<text x="140.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#a3aec8" text-anchor="start">per month in 2026 than in 2025</text>
+<line x1="40" x2="680" y1="420" y2="420" stroke="#2a3556"/>
+<rect x="59.2" y="413.6" width="68.3" height="6.4" rx="5" fill="#2dd4bf"/>
+<text x="93.3" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q3</text>
+<text x="93.3" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2025</text>
+<rect x="165.9" y="396.2" width="68.3" height="23.8" rx="5" fill="#2dd4bf"/>
+<text x="200.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q4</text>
+<text x="200.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
+<rect x="272.5" y="400.8" width="68.3" height="19.2" rx="5" fill="#2dd4bf"/>
+<text x="306.7" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q1</text>
+<text x="306.7" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle">2026</text>
+<rect x="379.2" y="376.0" width="68.3" height="44.0" rx="5" fill="#2dd4bf"/>
+<text x="413.3" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q2</text>
+<text x="413.3" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
+<rect x="485.9" y="204.6" width="68.3" height="215.4" rx="5" fill="#2dd4bf"/>
+<text x="520.0" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q3</text>
+<text x="520.0" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a3aec8" text-anchor="middle"></text>
+<rect x="592.5" y="384.2" width="68.3" height="35.8" rx="5" fill="#fbbf24"/>
+<text x="626.7" y="450.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#e6ebf5" text-anchor="middle">Q4</text>
+<text x="626.7" y="476.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#fbbf24" text-anchor="middle">so far</text>
+<text x="32.0" y="520.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="start">Merged PRs on github.com since joining Configit</text>
+</svg>
