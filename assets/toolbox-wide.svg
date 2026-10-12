@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 460" width="100%" role="img" aria-label="Tools used per year since 2009">
-<rect width="1100" height="460" rx="16" fill="#0c1222"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 504" width="100%" role="img" aria-label="Tools used per year since 2009">
+<rect width="1100" height="504" rx="16" fill="#0c1222"/>
 <text x="32" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19.5" fill="#7dd3fc">$ toolbox --by-year</text>
 <text x="32" y="87" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">LangGraph · deep agents</text>
 <rect x="232.0" y="70" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
@@ -20,203 +20,203 @@
 <rect x="932.0" y="70" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
 <rect x="978.7" y="70" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
 <rect x="1025.3" y="70" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<text x="32" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">TypeScript · Next.js</text>
-<rect x="232.0" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="792.0" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="838.7" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="885.3" y="100" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="932.0" y="100" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="978.7" y="100" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="1025.3" y="100" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<text x="32" y="147" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">LLMs · fine-tuning</text>
-<rect x="232.0" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="130" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="792.0" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="838.7" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="885.3" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="932.0" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="978.7" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="1025.3" y="130" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<text x="32" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">Azure</text>
-<rect x="232.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="792.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="838.7" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="885.3" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="932.0" y="160" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="978.7" y="160" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<rect x="1025.3" y="160" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
-<text x="32" y="207" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">PyTorch · deep learning</text>
-<rect x="232.0" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="792.0" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="838.7" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="885.3" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="932.0" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="978.7" y="190" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="1025.3" y="190" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="32" y="237" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">MLOps · MLflow · Docker</text>
-<rect x="232.0" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="792.0" y="220" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="838.7" y="220" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="885.3" y="220" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="932.0" y="220" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="978.7" y="220" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="1025.3" y="220" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="32" y="267" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">AWS · SageMaker</text>
-<rect x="232.0" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="605.3" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="792.0" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="838.7" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="885.3" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="932.0" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="978.7" y="250" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
-<rect x="1025.3" y="250" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="32" y="297" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">ML for science</text>
-<rect x="232.0" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="465.3" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="512.0" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="558.7" y="280" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="605.3" y="280" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="652.0" y="280" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="698.7" y="280" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="745.3" y="280" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="792.0" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="838.7" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="885.3" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="932.0" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="978.7" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="1025.3" y="280" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="32" y="327" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">Python</text>
-<rect x="232.0" y="310" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="310" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="310" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="310" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="465.3" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="512.0" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="558.7" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="605.3" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="652.0" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="698.7" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="745.3" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="792.0" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="838.7" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="885.3" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="932.0" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="978.7" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<rect x="1025.3" y="310" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
-<text x="32" y="357" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">HPC · simulation</text>
-<rect x="232.0" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="278.7" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="325.3" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="372.0" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="418.7" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="465.3" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="512.0" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="558.7" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="605.3" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="652.0" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="698.7" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="745.3" y="340" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="792.0" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="838.7" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="885.3" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="932.0" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="978.7" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="1025.3" y="340" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="32" y="387" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">MATLAB · numerics</text>
-<rect x="232.0" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="278.7" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="325.3" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="372.0" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="418.7" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="465.3" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="512.0" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="558.7" y="370" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
-<rect x="605.3" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="652.0" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="698.7" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="745.3" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="792.0" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="838.7" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="885.3" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="932.0" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="978.7" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<rect x="1025.3" y="370" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
-<text x="300.0" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2010</text>
-<text x="393.3" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2012</text>
-<text x="486.7" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2014</text>
-<text x="580.0" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2016</text>
-<text x="673.3" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2018</text>
-<text x="766.7" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2020</text>
-<text x="860.0" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2022</text>
-<text x="953.3" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2024</text>
-<text x="1046.7" y="418" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2026</text>
+<text x="32" y="121" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">TypeScript · Next.js</text>
+<rect x="232.0" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="792.0" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="838.7" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="885.3" y="104" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="932.0" y="104" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="978.7" y="104" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="1025.3" y="104" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<text x="32" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">LLMs · fine-tuning</text>
+<rect x="232.0" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="138" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="792.0" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="838.7" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="885.3" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="932.0" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="978.7" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="1025.3" y="138" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<text x="32" y="189" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">Azure</text>
+<rect x="232.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="792.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="838.7" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="885.3" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="932.0" y="172" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="978.7" y="172" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<rect x="1025.3" y="172" width="42.7" height="22" rx="4" fill="#fbbf24" fill-opacity="0.9"/>
+<text x="32" y="223" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">PyTorch · deep learning</text>
+<rect x="232.0" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="792.0" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="838.7" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="885.3" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="932.0" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="978.7" y="206" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="1025.3" y="206" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="32" y="257" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">MLOps · MLflow · Docker</text>
+<rect x="232.0" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="792.0" y="240" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="838.7" y="240" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="885.3" y="240" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="932.0" y="240" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="978.7" y="240" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="1025.3" y="240" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="32" y="291" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">AWS · SageMaker</text>
+<rect x="232.0" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="605.3" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="792.0" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="838.7" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="885.3" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="932.0" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="978.7" y="274" width="42.7" height="22" rx="4" fill="#2dd4bf" fill-opacity="0.9"/>
+<rect x="1025.3" y="274" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="32" y="325" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">ML for science</text>
+<rect x="232.0" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="465.3" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="512.0" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="558.7" y="308" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="605.3" y="308" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="652.0" y="308" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="698.7" y="308" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="745.3" y="308" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="792.0" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="838.7" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="885.3" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="932.0" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="978.7" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="1025.3" y="308" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="32" y="359" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">Python</text>
+<rect x="232.0" y="342" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="342" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="342" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="342" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="465.3" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="512.0" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="558.7" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="605.3" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="652.0" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="698.7" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="745.3" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="792.0" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="838.7" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="885.3" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="932.0" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="978.7" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<rect x="1025.3" y="342" width="42.7" height="22" rx="4" fill="#60a5fa" fill-opacity="0.9"/>
+<text x="32" y="393" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">HPC · simulation</text>
+<rect x="232.0" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="278.7" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="325.3" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="372.0" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="418.7" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="465.3" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="512.0" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="558.7" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="605.3" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="652.0" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="698.7" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="745.3" y="376" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="792.0" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="838.7" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="885.3" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="932.0" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="978.7" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="1025.3" y="376" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="32" y="427" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.6" fill="#e6ebf5">MATLAB · numerics</text>
+<rect x="232.0" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="278.7" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="325.3" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="372.0" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="418.7" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="465.3" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="512.0" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="558.7" y="410" width="42.7" height="22" rx="4" fill="#a78bfa" fill-opacity="0.9"/>
+<rect x="605.3" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="652.0" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="698.7" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="745.3" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="792.0" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="838.7" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="885.3" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="932.0" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="978.7" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<rect x="1025.3" y="410" width="42.7" height="22" rx="4" fill="#121a30" fill-opacity="1"/>
+<text x="300.0" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2010</text>
+<text x="393.3" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2012</text>
+<text x="486.7" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2014</text>
+<text x="580.0" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2016</text>
+<text x="673.3" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2018</text>
+<text x="766.7" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2020</text>
+<text x="860.0" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2022</text>
+<text x="953.3" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2024</text>
+<text x="1046.7" y="462" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">2026</text>
 </svg>
