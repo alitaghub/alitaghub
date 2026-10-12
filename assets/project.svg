@@ -27,5 +27,5 @@
 <text x="974" y="170" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#fbbf24">.toDeepAgent()</text>
 <text x="974" y="192" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a0bd">a normal deepagents agent</text>
 <text x="974" y="207" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a0bd">invoke · stream · getState</text>
-<text x="32" y="278" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#93a0bd">npm i langchain-feature   ·   TypeScript   ·   MIT</text>
+<text x="32" y="278" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#93a0bd">TypeScript   ·   MIT   ·   early stage</text>
 </svg>
