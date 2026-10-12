@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" width="100%" role="img" aria-label="DivERS Tech journey, 2020 to 2026">
+<rect width="1100" height="250" rx="16" fill="#0c1222"/>
+<text x="32" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19.5" fill="#7dd3fc">$ cat divers-tech/journey.log</text>
+<line x1="70" x2="1040" y1="140" y2="140" stroke="#26304d" stroke-width="3"/>
+<circle cx="150.0" cy="140" r="7" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.5"/>
+<line x1="150.0" x2="150.0" y1="132" y2="104" stroke="#26304d"/>
+<text x="150.0" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.0" fill="#fbbf24">2020</text>
+<text x="150.0" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18.2" font-weight="700" fill="#e6ebf5">Founded DivERS Tech</text>
+<text x="150.0" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">fairer hiring with AI</text>
+<circle cx="345.0" cy="140" r="7" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.5"/>
+<line x1="345.0" x2="345.0" y1="148" y2="162" stroke="#26304d"/>
+<text x="345.0" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.0" fill="#fbbf24">2021</text>
+<text x="345.0" y="196" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18.2" font-weight="700" fill="#e6ebf5">DTU Discovery grant</text>
+<text x="345.0" y="212" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">130,000 DKK</text>
+<circle cx="550.0" cy="140" r="7" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.5"/>
+<line x1="550.0" x2="550.0" y1="132" y2="104" stroke="#26304d"/>
+<text x="550.0" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.0" fill="#fbbf24">2021</text>
+<text x="550.0" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18.2" font-weight="700" fill="#e6ebf5">Best digital startup</text>
+<text x="550.0" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">Venture Cup Denmark</text>
+<circle cx="750.0" cy="140" r="7" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.5"/>
+<line x1="750.0" x2="750.0" y1="148" y2="162" stroke="#26304d"/>
+<text x="750.0" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.0" fill="#fbbf24">2022</text>
+<text x="750.0" y="196" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18.2" font-weight="700" fill="#e6ebf5">Innobooster grant</text>
+<text x="750.0" y="212" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">500,000 DKK</text>
+<circle cx="960.0" cy="140" r="7" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.5"/>
+<line x1="960.0" x2="960.0" y1="132" y2="104" stroke="#26304d"/>
+<text x="960.0" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.0" fill="#fbbf24">2026</text>
+<text x="960.0" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18.2" font-weight="700" fill="#e6ebf5">Moved on</text>
+<text x="960.0" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.6" fill="#93a0bd">after five years</text>
+</svg>

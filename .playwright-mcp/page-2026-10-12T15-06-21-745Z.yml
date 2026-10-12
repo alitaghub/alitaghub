@@ -1,0 +1,5 @@
+- generic [active] [ref=e1]:
+  - heading "a" [level=3] [ref=e2]
+  - heading "b" [level=3] [ref=e4]
+  - heading "c" [level=3] [ref=e6]
+  - heading "d" [level=3] [ref=e8]

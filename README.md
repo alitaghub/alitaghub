@@ -49,7 +49,7 @@ At Configit I build tool-using agents with planning, subagents and human approva
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/experience-mobile.svg">
-  <img src="assets/experience-desktop.svg" alt="Work experience timeline since 2013" width="100%"/>
+  <img src="assets/experience-wide.svg" alt="Work experience timeline since 2013" width="100%"/>
 </picture>
 
 ### Shipping with coding agents
@@ -58,12 +58,12 @@ I use Claude Code and Codex daily to go from written acceptance criteria to test
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/prs-mobile.svg">
-  <img src="assets/prs-desktop.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/>
+  <img src="assets/prs-wide.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/>
 </picture>
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/workflow-mobile.svg">
-  <img src="assets/workflow-desktop.svg" alt="Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" width="100%"/>
+  <img src="assets/workflow-wide.svg" alt="Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" width="100%"/>
 </picture>
 
 ### DivERS Tech
@@ -72,14 +72,14 @@ Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS T
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/divers-mobile.svg">
-  <img src="assets/divers-desktop.svg" alt="DivERS Tech journey, 2020 to 2026" width="100%"/>
+  <img src="assets/divers-wide.svg" alt="DivERS Tech journey, 2020 to 2026" width="100%"/>
 </picture>
 
 ### Toolbox over time
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/toolbox-mobile.svg">
-  <img src="assets/toolbox-desktop.svg" alt="Tools used per year since 2009" width="100%"/>
+  <img src="assets/toolbox-wide.svg" alt="Tools used per year since 2009" width="100%"/>
 </picture>
 
 ### Research background
@@ -88,7 +88,7 @@ Before industry I did a PhD in photonics at DTU and a postdoc in ML for material
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/citations-mobile.svg">
-  <img src="assets/citations-desktop.svg" alt="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" width="100%"/>
+  <img src="assets/citations-wide.svg" alt="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" width="100%"/>
 </picture>
 
 ### Connect

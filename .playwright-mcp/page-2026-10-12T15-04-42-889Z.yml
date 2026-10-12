@@ -1,0 +1,260 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - link "Skip to content" [ref=f3e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f3e9]:
+      - heading "Navigation Menu" [level=2] [ref=f3e10]
+      - generic [ref=f3e12]:
+        - button "Toggle navigation" [ref=f3e14] [cursor=pointer]
+        - link "Homepage" [ref=f3e18] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f3e21]:
+          - link "Sign in" [ref=f3e22] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Falitaghub%3Fv%3Dphone5
+          - button "Appearance settings" [ref=f3e25] [cursor=pointer]
+  - main [ref=f3e31]:
+    - generic [ref=f3e33]:
+      - generic [ref=f3e36]:
+        - generic [ref=f3e37]:
+          - link [ref=f3e39] [cursor=pointer]:
+            - /url: https://avatars.githubusercontent.com/u/29890879?v=4
+            - img "View alitaghub's full-sized avatar" [ref=f3e40]
+          - heading "Alireza Taghizadeh alitaghub" [level=1] [ref=f3e42]:
+            - generic [ref=f3e43]: Alireza Taghizadeh
+            - generic [ref=f3e44]: alitaghub
+        - generic [ref=f3e45]:
+          - link "Follow" [ref=f3e52] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Falitaghub%3Fv%3Dphone5
+          - generic [ref=f3e53]:
+            - generic [ref=f3e54]: Principal AI Engineer · Machine learning and agentic systems · Python & TypeScript
+            - generic [ref=f3e57]:
+              - link "4 followers" [ref=f3e58] [cursor=pointer]:
+                - /url: https://github.com/alitaghub?tab=followers
+              - text: ·
+              - link "1 following" [ref=f3e61] [cursor=pointer]:
+                - /url: https://github.com/alitaghub?tab=following
+            - list
+        - generic [ref=f3e62]:
+          - heading [level=2] [ref=f3e63]:
+            - link "Achievements" [ref=f3e64] [cursor=pointer]:
+              - /url: /alitaghub?tab=achievements
+          - generic [ref=f3e65]:
+            - 'link "Achievement: Pair Extraordinaire x4" [ref=f3e66] [cursor=pointer]':
+              - /url: /alitaghub?achievement=pair-extraordinaire&tab=achievements
+              - 'img "Achievement: Pair Extraordinaire" [ref=f3e67]'
+              - generic [ref=f3e68]: x4
+            - 'link "Achievement: Pull Shark x3" [ref=f3e69] [cursor=pointer]':
+              - /url: /alitaghub?achievement=pull-shark&tab=achievements
+              - 'img "Achievement: Pull Shark" [ref=f3e70]'
+              - generic [ref=f3e71]: x3
+            - link [ref=f3e72] [cursor=pointer]:
+              - /url: /alitaghub?achievement=quickdraw&tab=achievements
+              - 'img "Achievement: Quickdraw" [ref=f3e73]'
+            - link [ref=f3e74] [cursor=pointer]:
+              - /url: /alitaghub?achievement=yolo&tab=achievements
+              - 'img "Achievement: YOLO" [ref=f3e75]'
+        - button "Block or report user" [ref=f3e77] [cursor=pointer]
+      - generic [ref=f3e80]:
+        - navigation "User profile" [ref=f3e82]:
+          - link "Overview" [ref=f3e83] [cursor=pointer]:
+            - /url: /alitaghub
+          - link "Repositories 4" [ref=f3e86] [cursor=pointer]:
+            - /url: /alitaghub?tab=repositories
+            - text: Repositories
+            - generic "4" [ref=f3e89]
+          - link "Projects" [ref=f3e90] [cursor=pointer]:
+            - /url: /alitaghub?tab=projects
+          - link "Packages" [ref=f3e93] [cursor=pointer]:
+            - /url: /alitaghub?tab=packages
+          - link "Stars 188" [ref=f3e96] [cursor=pointer]:
+            - /url: /alitaghub?tab=stars
+            - text: Stars
+            - generic "188" [ref=f3e99]
+        - generic [ref=f3e101]:
+          - generic [ref=f3e103]:
+            - generic [ref=f3e105]:
+              - link "alitaghub" [ref=f3e106] [cursor=pointer]:
+                - /url: /alitaghub/alitaghub
+              - generic [ref=f3e107]: /
+              - text: README.md
+            - article [ref=f3e108]:
+              - 'img "Alireza Taghizadeh: Principal AI Engineer at Configit. From photonics research to machine learning and deep learning to agentic AI." [ref=f3e111]'
+              - paragraph [ref=f3e112]: Data science · machine learning · agentic AI · product 📍 Copenhagen, Denmark
+              - paragraph [ref=f3e113]:
+                - link [ref=f3e114] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/alirezataghizadeh/
+                  - img "LinkedIn" [ref=f3e115]
+                - link [ref=f3e116] [cursor=pointer]:
+                  - /url: https://scholar.google.dk/citations?user=pPawr70AAAAJ
+                  - img "Google Scholar" [ref=f3e117]
+              - paragraph [ref=f3e118]:
+                - link [ref=f3e119] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/81a047d3ffb89cb856363ac9442fa827e09a933c21ac38eefa84b560b0c2daae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446565702532306167656e74732532302532362532306576616c73253230696e25323070726f64756374696f6e2d3065386637643f7374796c653d666f722d7468652d6261646765
+                  - img "Deep agents and evals in production" [ref=f3e120]
+                - link [ref=f3e121] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/1ebbfd8fdf6729abd38bb2a977ae2fb324bec4d21d61ba59152f8a887b58b5cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6564253230616e25323041492532307465616d2532306f66253230352d6237373930623f7374796c653d666f722d7468652d6261646765
+                  - img "Led an AI team of 5" [ref=f3e122]
+              - separator [ref=f3e123]
+              - generic [ref=f3e124]:
+                - heading "About me" [level=3] [ref=f3e125]
+                - 'link "Permalink: About me" [ref=f3e126] [cursor=pointer]':
+                  - /url: "#about-me"
+              - paragraph [ref=f3e129]:
+                - text: I lead the architecture and hands-on development of
+                - strong [ref=f3e130]: Ace Prompt
+                - text: at Configit, an AI assistant that helps engineers build product models. Before that I built and led a five-person AI team at Brüel & Kjær Vibro, worked in data science at Liva Healthcare, and founded DivERS Tech.
+              - paragraph [ref=f3e131]: At Configit I build tool-using agents with planning, subagents and human approval at high-risk steps, on LangGraph and Azure. We use evaluations and trace review to catch regressions before release.
+              - paragraph [ref=f3e132]:
+                - strong [ref=f3e133]: "Stack:"
+                - text: agentic AI · LLM applications · RAG · LLM evaluation and tracing · LLM fine-tuning (BERT, FLAN-T5) · LangGraph · LangChain · Python · TypeScript · Next.js · PyTorch · FastAPI · MLflow · Docker · Azure · AWS
+              - generic [ref=f3e134]:
+                - heading "Experience" [level=3] [ref=f3e135]
+                - 'link "Permalink: Experience" [ref=f3e136] [cursor=pointer]':
+                  - /url: "#experience"
+              - paragraph [ref=f3e139]:
+                - strong [ref=f3e140]: Configit
+                - text: · Principal AI Engineer and interim Product Owner · 2025 to now
+              - list [ref=f3e141]:
+                - listitem [ref=f3e142]: Lead architecture and development of Ace Prompt, bringing agentic AI to Configit's configuration platform.
+                - listitem [ref=f3e143]: Build tool-using deep agents with LangChain, LangGraph, TypeScript, Next.js and Azure.
+                - listitem [ref=f3e144]: Build agent evaluations, execution tracing and guardrails.
+                - listitem [ref=f3e145]: As interim Product Owner, turn customer needs into priorities, scope and delivery plans.
+              - paragraph [ref=f3e146]:
+                - strong [ref=f3e147]: Brüel & Kjær Vibro
+                - text: · Head of AI and Analytics, Senior Data Scientist · 2022 to 2025
+              - list [ref=f3e148]:
+                - listitem [ref=f3e149]: Built and mentored an AI team of five for the BKV Beyond condition monitoring platform.
+                - listitem [ref=f3e150]: Owned the AI roadmap for predictive maintenance and anomaly detection.
+                - listitem [ref=f3e151]: Took deep learning time-series models from design to production with PyTorch, MLflow, FastAPI and AWS SageMaker.
+              - paragraph [ref=f3e152]:
+                - strong [ref=f3e153]: Liva Healthcare
+                - text: · Data science · 2020 to 2022
+              - list [ref=f3e154]:
+                - listitem [ref=f3e155]: Built ML and deep learning models on health records, behavioral data and wearables, in a regulated setting.
+              - img "Work experience timeline since 2013" [ref=f3e158]
+              - generic [ref=f3e159]:
+                - heading "Shipping with coding agents" [level=3] [ref=f3e160]
+                - 'link "Permalink: Shipping with coding agents" [ref=f3e161] [cursor=pointer]':
+                  - /url: "#shipping-with-coding-agents"
+              - paragraph [ref=f3e164]: I use Claude Code and Codex daily to go from written acceptance criteria to tested pull requests. I stay accountable for design, review, runtime QA and release.
+              - img "Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" [ref=f3e167]
+              - 'img "Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" [ref=f3e170]'
+              - generic [ref=f3e171]:
+                - heading "DivERS Tech" [level=3] [ref=f3e172]
+                - 'link "Permalink: DivERS Tech" [ref=f3e173] [cursor=pointer]':
+                  - /url: "#divers-tech"
+              - paragraph [ref=f3e176]: Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS Tech to make recruitment fairer and more diverse with AI. The startup won Venture Cup's best digital startup award in Denmark and raised 630,000 DKK in public grants.
+              - img "DivERS Tech journey, 2020 to 2026" [ref=f3e179]
+              - generic [ref=f3e180]:
+                - heading "Toolbox over time" [level=3] [ref=f3e181]
+                - 'link "Permalink: Toolbox over time" [ref=f3e182] [cursor=pointer]':
+                  - /url: "#toolbox-over-time"
+              - img "Tools used per year since 2009" [ref=f3e187]
+              - generic [ref=f3e188]:
+                - heading "Research background" [level=3] [ref=f3e189]
+                - 'link "Permalink: Research background" [ref=f3e190] [cursor=pointer]':
+                  - /url: "#research-background"
+              - paragraph [ref=f3e193]:
+                - text: Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials, and contributed to the open-source
+                - link "GPAW" [ref=f3e194] [cursor=pointer]:
+                  - /url: https://gpaw.readthedocs.io/
+                - text: code. My 50+ papers have 2,200+ citations and an h-index of 20. Yearly citations grew every year from 2021 to 523 in 2025. I still collaborate with universities and co-supervise PhD and master's theses. See
+                - link "Google Scholar" [ref=f3e195] [cursor=pointer]:
+                  - /url: https://scholar.google.dk/citations?user=pPawr70AAAAJ
+                - text: .
+              - 'img "Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" [ref=f3e198]'
+              - generic [ref=f3e199]:
+                - heading "Connect" [level=3] [ref=f3e200]
+                - 'link "Permalink: Connect" [ref=f3e201] [cursor=pointer]':
+                  - /url: "#connect"
+              - paragraph [ref=f3e204]:
+                - text: Happy to talk about agent architecture, AI evals and shipping with coding agents.
+                - link "LinkedIn" [ref=f3e205] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/alirezataghizadeh/
+                - text: ·
+                - link "Email" [ref=f3e206] [cursor=pointer]:
+                  - /url: mailto:a.r.taghizadeh@gmail.com
+          - generic [ref=f3e208]:
+            - heading "Popular repositories Loading" [level=2] [ref=f3e209]:
+              - text: Popular repositories
+              - generic: Loading
+              - status
+            - list [ref=f3e211]:
+              - listitem [ref=f3e212]:
+                - generic [ref=f3e214]:
+                  - generic [ref=f3e215]:
+                    - link "recode-case-study-ds" [ref=f3e217] [cursor=pointer]:
+                      - /url: /alitaghub/recode-case-study-ds
+                    - generic [ref=f3e218]: Public
+                  - paragraph
+                  - paragraph
+              - listitem [ref=f3e220]:
+                - generic [ref=f3e222]:
+                  - generic [ref=f3e223]:
+                    - link "ai-hero-alitag" [ref=f3e225] [cursor=pointer]:
+                      - /url: /alitaghub/ai-hero-alitag
+                    - generic [ref=f3e226]: Public
+                  - paragraph [ref=f3e228]:
+                    - text: Forked from
+                    - link "ai-hero-dev/ai-hero" [ref=f3e229] [cursor=pointer]:
+                      - /url: /ai-hero-dev/ai-hero
+                  - paragraph [ref=f3e230]: AI Hero's open-source examples and course material. Learn AI Engineering with a single repo.
+                  - paragraph [ref=f3e231]:
+                    - generic [ref=f3e232]: TypeScript
+              - listitem [ref=f3e234]:
+                - generic [ref=f3e236]:
+                  - generic [ref=f3e237]:
+                    - link "firstmate" [ref=f3e239] [cursor=pointer]:
+                      - /url: /alitaghub/firstmate
+                    - generic [ref=f3e240]: Public
+                  - paragraph [ref=f3e242]:
+                    - text: Forked from
+                    - link "kunchenguid/firstmate" [ref=f3e243] [cursor=pointer]:
+                      - /url: /kunchenguid/firstmate
+                  - paragraph [ref=f3e244]: Talk to one agent. Ship with a crew.
+                  - paragraph [ref=f3e245]:
+                    - generic [ref=f3e246]: Shell
+              - listitem [ref=f3e248]:
+                - generic [ref=f3e250]:
+                  - generic [ref=f3e251]:
+                    - link "alitaghub" [ref=f3e253] [cursor=pointer]:
+                      - /url: /alitaghub/alitaghub
+                    - generic [ref=f3e254]: Public
+                  - paragraph [ref=f3e256]: Principal AI Engineer — machine learning, agentic systems, and software engineering.
+                  - paragraph
+          - img "Loading" [ref=f3e261]
+  - contentinfo [ref=f3e264]:
+    - heading "Footer" [level=2] [ref=f3e265]
+    - generic [ref=f3e266]:
+      - generic [ref=f3e267]:
+        - link "GitHub Homepage" [ref=f3e268] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f3e271]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f3e272]:
+        - heading "Footer navigation" [level=3] [ref=f3e273]
+        - list "Footer navigation" [ref=f3e274]:
+          - listitem [ref=f3e275]:
+            - link "Terms" [ref=f3e276] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f3e277]:
+            - link "Privacy" [ref=f3e278] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f3e279]:
+            - link "Security" [ref=f3e280] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f3e281]:
+            - link "Status" [ref=f3e282] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f3e283]:
+            - link "Community" [ref=f3e284] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f3e285]:
+            - link "Docs" [ref=f3e286] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f3e287]:
+            - link "Contact" [ref=f3e288] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f3e289]:
+            - button "Manage cookies" [ref=f3e291] [cursor=pointer]
+          - listitem [ref=f3e292]:
+            - button "Do not share my personal information" [ref=f3e294] [cursor=pointer]
