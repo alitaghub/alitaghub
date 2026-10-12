@@ -1,74 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="100%" role="img" aria-label="Alireza Taghizadeh: Principal AI Engineer at Configit. Turning data into ML models, AI agents and products people use.">
-<rect width="720" height="440" rx="18" fill="#0c1222"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 455" width="100%" role="img" aria-label="Alireza Taghizadeh: Principal AI Engineer at Configit. Career path from physics PhD (2013) to ML for science (2016), data science (2020), deep learning in industry (2022), head of AI (2024) and agentic AI (2025).">
+<rect width="720" height="455" rx="18" fill="#0c1222"/>
 <text x="40.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#e6ebf5" text-anchor="start">Alireza Taghizadeh</text>
 <text x="40.0" y="132.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#fbbf24" text-anchor="start">Principal AI Engineer · Configit</text>
-<text x="40.0" y="174.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">Turning data into ML models,</text>
-<text x="40.0" y="206.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">AI agents and products people use.</text>
-<polyline points="45,318 56,304 67,312 78,296 89,306 100,288 111,298 122,282 133,292 144,278 155,284" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
-<circle cx="45" cy="318" r="4" fill="#a78bfa"/>
-<circle cx="67" cy="312" r="4" fill="#a78bfa"/>
-<circle cx="89" cy="306" r="4" fill="#a78bfa"/>
-<circle cx="111" cy="298" r="4" fill="#a78bfa"/>
-<circle cx="133" cy="292" r="4" fill="#a78bfa"/>
-<circle cx="155" cy="284" r="4" fill="#a78bfa"/>
-<line x1="228" y1="270" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="270" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="270" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="270" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="300" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="300" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="300" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="300" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="330" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="330" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="330" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="228" y1="330" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="261" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="261" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="287" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="287" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="313" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="313" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="339" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<line x1="270" y1="339" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
-<circle cx="228" cy="270" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="228" cy="300" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="228" cy="330" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="270" cy="261" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="270" cy="287" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="270" cy="313" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="270" cy="339" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="312" cy="285" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<circle cx="312" cy="315" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
-<line x1="440" y1="300" x2="392" y2="276" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="440" y1="300" x2="426" y2="258" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="440" y1="300" x2="476" y2="268" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="440" y1="300" x2="488" y2="314" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="440" y1="300" x2="446" y2="340" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="440" y1="300" x2="398" y2="326" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<line x1="476" y1="268" x2="488" y2="314" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
-<circle cx="392" cy="276" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="426" cy="258" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="476" cy="268" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="488" cy="314" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="446" cy="340" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="398" cy="326" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
-<circle cx="440" cy="300" r="11" fill="#2dd4bf"/>
-<rect x="560" y="256" width="100" height="88" rx="10" fill="#16203a" stroke="#fbbf24" stroke-width="2"/>
-<rect x="574" y="316" width="13" height="18" rx="2" fill="#fbbf24" fill-opacity="0.45"/>
-<rect x="594" y="306" width="13" height="28" rx="2" fill="#fbbf24" fill-opacity="0.63"/>
-<rect x="614" y="294" width="13" height="40" rx="2" fill="#fbbf24" fill-opacity="0.81"/>
-<rect x="634" y="278" width="13" height="56" rx="2" fill="#fbbf24" fill-opacity="0.99"/>
-<path d="M574 294 L606 282 L646 266 M636 264 L646 266 L642 276" fill="none" stroke="#e6ebf5" stroke-width="2.2"/>
-<path d="M166 300 L204 300 M196 294 L204 300 L196 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
-<path d="M336 300 L374 300 M366 294 L374 300 L366 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
-<path d="M506 300 L544 300 M536 294 L544 300 L536 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
-<text x="100.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#a78bfa" text-anchor="middle">Data</text>
-<text x="100.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">analytics</text>
-<text x="270.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#60a5fa" text-anchor="middle">ML models</text>
-<text x="270.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">deep learning</text>
-<text x="440.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2dd4bf" text-anchor="middle">AI agents</text>
-<text x="440.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">LLMs, evals</text>
-<text x="610.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fbbf24" text-anchor="middle">Product</text>
-<text x="610.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">and insight</text>
+<text x="40.0" y="174.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#a3aec8" text-anchor="start">From physics research to data science,</text>
+<text x="40.0" y="204.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#a3aec8" text-anchor="start">machine learning and agentic AI.</text>
+<defs><linearGradient id="sp" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset=".35" stop-color="#60a5fa"/><stop offset=".7" stop-color="#2dd4bf"/><stop offset="1" stop-color="#fbbf24"/></linearGradient></defs>
+<polyline points="60,372.0 66,371.9 72,371.6 78,371.4 84,371.1 90,370.7 96,370.3 102,369.9 108,369.5 114,369.0 120,368.6 126,368.1 132,367.6 138,367.1 144,366.5 150,366.0 156,365.4 162,364.8 168,364.2 174,363.6 180,363.0 186,362.3 192,361.7 198,361.0 204,360.3 210,359.7 216,359.0 222,358.2 228,357.5 234,356.8 240,356.1 246,355.3 252,354.6 258,353.8 264,353.0 270,352.2 276,351.4 282,350.6 288,349.8 294,349.0 300,348.2 306,347.3 312,346.5 318,345.6 324,344.8 330,343.9 336,343.0 342,342.1 348,341.2 354,340.3 360,339.4 366,338.5 372,337.6 378,336.6 384,335.7 390,334.8 396,333.8 402,332.9 408,331.9 414,330.9 420,329.9 426,329.0 432,328.0 438,327.0 444,326.0 450,325.0 456,323.9 462,322.9 468,321.9 474,320.9 480,319.8 486,318.8 492,317.7 498,316.7 504,315.6 510,314.5 516,313.4 522,312.4 528,311.3 534,310.2 540,309.1 546,308.0 552,306.9 558,305.8 564,304.6 570,303.5 576,302.4 582,301.2 588,300.1 594,299.0 600,297.8 606,296.6 612,295.5 618,294.3 624,293.1 630,292.0 636,290.8 642,289.6 648,288.4 654,287.2 660,286.0" fill="none" stroke="url(#sp)" stroke-width="5" stroke-linecap="round"/>
+<circle cx="80" cy="371.3" r="10" fill="#0c1222" stroke="#a78bfa" stroke-width="3.5"/>
+<text x="80.0" y="325.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#a78bfa" text-anchor="middle">Physics PhD</text>
+<text x="80.0" y="350.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2013</text>
+<circle cx="192" cy="361.7" r="10" fill="#0c1222" stroke="#60a5fa" stroke-width="3.5"/>
+<text x="192.0" y="398.7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2016</text>
+<text x="192.0" y="423.7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#60a5fa" text-anchor="middle">ML for science</text>
+<circle cx="304" cy="347.6" r="10" fill="#0c1222" stroke="#2dd4bf" stroke-width="3.5"/>
+<text x="304.0" y="301.6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#2dd4bf" text-anchor="middle">Data science</text>
+<text x="304.0" y="326.6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2020</text>
+<circle cx="416" cy="330.6" r="10" fill="#0c1222" stroke="#2dd4bf" stroke-width="3.5"/>
+<text x="416.0" y="367.6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2022</text>
+<text x="416.0" y="392.6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#2dd4bf" text-anchor="middle">Deep learning</text>
+<circle cx="528" cy="311.3" r="10" fill="#0c1222" stroke="#fbbf24" stroke-width="3.5"/>
+<text x="528.0" y="265.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#fbbf24" text-anchor="middle">Head of AI</text>
+<text x="528.0" y="290.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2024</text>
+<circle cx="640" cy="290.0" r="10" fill="#0c1222" stroke="#fbbf24" stroke-width="3.5"/>
+<text x="640.0" y="327.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">2025</text>
+<text x="640.0" y="352.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#fbbf24" text-anchor="middle">Agentic AI</text>
 </svg>

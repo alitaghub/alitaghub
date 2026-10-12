@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. Turning data into ML models, AI agents and products people use." width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. From physics research to data science, machine learning and agentic AI." width="560"/></p>
 
 <p align="center">
   <b>Data science · machine learning · agentic AI · product</b><br/>
@@ -44,31 +44,31 @@ At Configit I build tool-using agents with planning, subagents and human approva
 
 - Built ML and deep learning models on health records, behavioral data and wearables, in a regulated setting.
 
-<p align="center"><img src="assets/experience.svg" alt="Work experience timeline since 2013" width="100%"/></p>
+<p align="center"><img src="assets/experience.svg" alt="Work experience timeline since 2013" width="560"/></p>
 
 ### Shipping with coding agents
 
 I use Claude Code and Codex daily to go from written acceptance criteria to tested pull requests. I stay accountable for design, review, runtime QA and release.
 
-<p align="center"><img src="assets/shipping.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/></p>
+<p align="center"><img src="assets/shipping.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="560"/></p>
 
-<p align="center"><img src="assets/workflow.svg" alt="Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" width="100%"/></p>
+<p align="center"><img src="assets/workflow.svg" alt="Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" width="560"/></p>
 
 ### DivERS Tech
 
 Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS Tech to make recruitment fairer and more diverse with AI. The startup won Venture Cup's best digital startup award in Denmark and raised 630,000 DKK in public grants.
 
-<p align="center"><img src="assets/divers.svg" alt="DivERS Tech journey, 2020 to 2026" width="100%"/></p>
+<p align="center"><img src="assets/divers.svg" alt="DivERS Tech journey, 2020 to 2026" width="560"/></p>
 
 ### Toolbox over time
 
-<p align="center"><img src="assets/toolbox.svg" alt="Tools used per year since 2009" width="100%"/></p>
+<p align="center"><img src="assets/toolbox.svg" alt="Tools used per year since 2009" width="560"/></p>
 
 ### Research background
 
 Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials, and contributed to the open-source [GPAW](https://gpaw.readthedocs.io/) code. My 50+ papers have 2,200+ citations and an h-index of 20. Yearly citations grew every year from 2021 to 523 in 2025. I still collaborate with universities and co-supervise PhD and master's theses. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
 
-<p align="center"><img src="assets/citations.svg" alt="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" width="100%"/></p>
+<p align="center"><img src="assets/citations.svg" alt="Google Scholar citations per year, 2015 to 2026: 2,282 citations, h-index 20" width="560"/></p>
 
 ### Connect
 
