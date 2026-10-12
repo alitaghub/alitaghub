@@ -1,7 +1,7 @@
-<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. I build AI agents that ship, and I ship with AI agents." width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. Building production AI agents and LLM applications." width="100%"/></p>
 
 <p align="center">
-  <b>Agentic AI · LLM apps and fine-tuning · deep learning · Python &amp; TypeScript</b><br/>
+  <b>Principal AI Engineer building production AI agents and LLM applications</b><br/>
   📍 Copenhagen, Denmark
 </p>
 
@@ -13,72 +13,58 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20agents%20%26%20evals%20in%20production-0e8f7d?style=for-the-badge" alt="Deep agents and evals in production"/>
   <img src="https://img.shields.io/badge/Led%20an%20AI%20team%20of%205-b7790b?style=for-the-badge" alt="Led an AI team of 5"/>
-  <img src="https://img.shields.io/badge/Founder%20%C2%B7%20DivERS%20Tech-6d4fd8?style=for-the-badge" alt="Founder: DivERS Tech"/>
 </p>
 
 ---
 
 ### About me
 
-I'm a Principal AI Engineer at Configit in Copenhagen. I lead the architecture of **Ace Prompt**, an AI assistant that helps engineers build product models. Before that I led an AI team at Brüel & Kjær Vibro, ran data science at Liva Healthcare, and founded DivERS Tech.
+I lead the architecture and hands-on development of **Ace Prompt** at Configit, an AI assistant that helps engineers build product models. Before that I built and led a five-person AI team at Brüel & Kjær Vibro, worked in data science at Liva Healthcare, and founded DivERS Tech.
 
-I design and build deep agentic systems: tool-using agents with planning, subagents, memory and human-in-the-loop steps, running in production on LangGraph and Azure. I treat evals as part of the product. Every agent ships with evaluation suites, execution tracing and guardrails, so we know when a change makes it better or worse.
+At Configit I build tool-using agents with planning, subagents and human approval at high-risk steps, on LangGraph and Azure. We use evaluations and trace review to catch regressions before release.
 
-I work hands-on in Python and TypeScript, and I build most of my code with coding agents.
+Most of my recent code lives in private company repositories.
+
+**Stack:** agentic AI · LLM applications · RAG · LLM evaluation and tracing · LLM fine-tuning (BERT, FLAN-T5) · LangGraph · LangChain · Python · TypeScript · Next.js · PyTorch · FastAPI · MLflow · Docker · Azure · AWS
 
 ### Experience
 
-<p align="center"><img src="assets/experience.svg" alt="Work experience timeline, 2013 to 2026" width="100%"/></p>
-
-<details><summary><b>Configit</b> · Principal AI Engineer and interim Product Owner · 2025 to now</summary>
+**Configit** · Principal AI Engineer and interim Product Owner · 2025 to now
 
 - Lead architecture and development of Ace Prompt, bringing agentic AI to Configit's configuration platform.
 - Build tool-using deep agents with LangChain, LangGraph, TypeScript, Next.js and Azure.
 - Build agent evaluations, execution tracing and guardrails.
 - As interim Product Owner, turn customer needs into priorities, scope and delivery plans.
 
-</details>
-
-<details><summary><b>Brüel &amp; Kjær Vibro</b> · Head of AI and Analytics, Senior Data Scientist · 2022 to 2025</summary>
+**Brüel & Kjær Vibro** · Head of AI and Analytics, Senior Data Scientist · 2022 to 2025
 
 - Built and mentored an AI team of five for the BKV Beyond condition monitoring platform.
 - Owned the AI roadmap for predictive maintenance and anomaly detection.
-- Took deep learning time-series models from design to production: PyTorch, MLflow, FastAPI, AWS SageMaker.
+- Took deep learning time-series models from design to production with PyTorch, MLflow, FastAPI and AWS SageMaker.
 
-</details>
+**Liva Healthcare** · Data science · 2020 to 2022
 
-<details><summary><b>Liva Healthcare</b> · Data science · 2020 to 2022</summary>
+- Built ML and deep learning models on health records, behavioral data and wearables, in a regulated setting.
 
-- ML and deep learning on health records, behavioral data and wearables, in a regulated setting.
-- Improved the team's workflows and tooling, and mentored team members.
-
-</details>
+<p align="center"><img src="assets/experience.svg" alt="Work experience timeline since 2013" width="100%"/></p>
 
 ### Shipping with coding agents
 
-I use Claude Code and Codex every day. With them I now ship about ten times more changes than a year ago.
+I use Claude Code and Codex daily to go from written acceptance criteria to tested pull requests. I stay accountable for design, review, runtime QA and release.
 
-<p align="center"><img src="assets/shipping.svg" alt="Merged pull requests per quarter, growing about tenfold in a year" width="100%"/></p>
-
-Speed only matters if the code is right. So every change goes through the same steps, and I sign off on each one myself.
+<p align="center"><img src="assets/shipping.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/></p>
 
 <p align="center"><img src="assets/workflow.svg" alt="Coding-agent workflow: spec, tickets, tests first, implement, review, runtime QA, human acceptance" width="100%"/></p>
 
-### DivERS Tech: my startup journey
+### DivERS Tech
 
-In 2020 I founded DivERS Tech to make hiring fairer with AI. We built tools that spot and reduce bias in recruitment, won Venture Cup's best digital startup award, and raised 630,000 DKK in public grants. I ran it next to my day job until 2026.
+Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS Tech to make recruitment fairer and more diverse with AI. The startup won Venture Cup's best digital startup award in Denmark and raised 630,000 DKK in public grants.
 
 <p align="center"><img src="assets/divers.svg" alt="DivERS Tech journey, 2020 to 2026" width="100%"/></p>
 
-**What I learned**
-
-- Talk to customers before you train a model. The data you need comes from them.
-- Grants buy time, not product-market fit.
-- A small team ships when every person owns one part end to end.
-
 ### Toolbox over time
 
-<p align="center"><img src="assets/toolbox.svg" alt="Tools used per year, 2009 to 2026" width="100%"/></p>
+<p align="center"><img src="assets/toolbox.svg" alt="Tools used per year since 2009" width="100%"/></p>
 
 ### Research background
 
