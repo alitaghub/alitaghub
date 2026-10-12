@@ -1,30 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" width="100%" role="img" aria-label="Alireza Taghizadeh: Principal AI Engineer at Configit. Building production AI agents and LLM applications.">
-<rect width="720" height="350" rx="18" fill="#0c1222"/>
-<text x="40.0" y="92.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#e6ebf5" text-anchor="start">Alireza Taghizadeh</text>
-<text x="40.0" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#fbbf24" text-anchor="start">Principal AI Engineer · Configit</text>
-<text x="40.0" y="180.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">Building production AI agents</text>
-<text x="40.0" y="212.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">and LLM applications.</text>
-<defs><linearGradient id="sp" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset=".45" stop-color="#60a5fa"/><stop offset=".75" stop-color="#2dd4bf"/><stop offset="1" stop-color="#fbbf24"/></linearGradient></defs>
-<polyline points="40,272.0 44,278.1 48,283.7 52,288.2 56,291.3 60,292.7 64,292.5 68,290.7 72,287.3 76,282.9 80,277.6 84,272.0 88,266.5 92,261.6 96,257.6 100,254.8 104,253.5 108,253.8 112,255.4 116,258.4 120,262.4 124,267.1 128,272.0 132,276.9 136,281.2 140,284.7 144,287.1 148,288.2 152,288.0 156,286.5 160,283.8 164,280.3 168,276.3 172,271.9 176,267.8 180,264.0 184,261.0 188,259.0 192,258.1 196,258.3 200,259.6 204,261.9 208,264.9 212,268.4 216,272.1 220,275.6 224,278.7 228,281.2 232,282.9 236,283.6 240,283.4 244,282.3 248,280.3 252,277.8 256,274.9 260,271.9 264,269.0 268,266.5 272,264.5 276,263.2 280,262.7 284,262.9 288,263.8 292,265.4 296,267.4 300,269.7 304,272.1 308,274.3 312,276.2 316,277.7 320,278.7 324,279.1 328,278.8 332,278.1 336,276.9 340,275.4 344,273.7 348,271.9 352,270.4 356,269.0 360,268.0 364,267.4 368,267.2 372,267.4 376,268.0 380,268.9 384,269.9 388,271.0 392,272.0 396,273.0 400,273.7 404,274.2 408,274.5 412,274.5 416,274.3 420,273.9 424,273.4 428,272.9 432,272.4 436,272.0 440,271.7" fill="none" stroke="url(#sp)" stroke-width="3" stroke-linecap="round"/>
-<line x1="450" y1="272" x2="510" y2="240" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="450" y1="272" x2="515" y2="305" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="510" y1="240" x2="580" y2="222" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="510" y1="240" x2="585" y2="272" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="515" y1="305" x2="585" y2="272" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="515" y1="305" x2="590" y2="320" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="580" y1="222" x2="650" y2="250" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="585" y1="272" x2="650" y2="250" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="585" y1="272" x2="655" y2="298" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="590" y1="320" x2="655" y2="298" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="650" y1="250" x2="690" y2="272" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<line x1="655" y1="298" x2="690" y2="272" stroke="#fbbf24" stroke-opacity=".4" stroke-width="1.6"/>
-<circle cx="450" cy="272" r="8" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="510" cy="240" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="515" cy="305" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="580" cy="222" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="585" cy="272" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="590" cy="320" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="650" cy="250" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="655" cy="298" r="6" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
-<circle cx="690" cy="272" r="8" fill="#0c1222" stroke="#fbbf24" stroke-width="2.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="100%" role="img" aria-label="Alireza Taghizadeh: Principal AI Engineer at Configit. Turning data into ML models, AI agents and products people use.">
+<rect width="720" height="440" rx="18" fill="#0c1222"/>
+<text x="40.0" y="88.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#e6ebf5" text-anchor="start">Alireza Taghizadeh</text>
+<text x="40.0" y="132.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#fbbf24" text-anchor="start">Principal AI Engineer · Configit</text>
+<text x="40.0" y="174.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">Turning data into ML models,</text>
+<text x="40.0" y="206.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#a3aec8" text-anchor="start">AI agents and products people use.</text>
+<polyline points="45,318 56,304 67,312 78,296 89,306 100,288 111,298 122,282 133,292 144,278 155,284" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
+<circle cx="45" cy="318" r="4" fill="#a78bfa"/>
+<circle cx="67" cy="312" r="4" fill="#a78bfa"/>
+<circle cx="89" cy="306" r="4" fill="#a78bfa"/>
+<circle cx="111" cy="298" r="4" fill="#a78bfa"/>
+<circle cx="133" cy="292" r="4" fill="#a78bfa"/>
+<circle cx="155" cy="284" r="4" fill="#a78bfa"/>
+<line x1="228" y1="270" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="270" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="270" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="270" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="300" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="300" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="300" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="300" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="330" x2="270" y2="261" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="330" x2="270" y2="287" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="330" x2="270" y2="313" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="228" y1="330" x2="270" y2="339" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="261" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="261" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="287" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="287" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="313" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="313" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="339" x2="312" y2="285" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<line x1="270" y1="339" x2="312" y2="315" stroke="#60a5fa" stroke-opacity=".35" stroke-width="1.4"/>
+<circle cx="228" cy="270" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="228" cy="300" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="228" cy="330" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="270" cy="261" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="270" cy="287" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="270" cy="313" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="270" cy="339" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="312" cy="285" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<circle cx="312" cy="315" r="6.5" fill="#0c1222" stroke="#60a5fa" stroke-width="2.4"/>
+<line x1="440" y1="300" x2="392" y2="276" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="440" y1="300" x2="426" y2="258" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="440" y1="300" x2="476" y2="268" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="440" y1="300" x2="488" y2="314" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="440" y1="300" x2="446" y2="340" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="440" y1="300" x2="398" y2="326" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<line x1="476" y1="268" x2="488" y2="314" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="1.6"/>
+<circle cx="392" cy="276" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="426" cy="258" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="476" cy="268" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="488" cy="314" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="446" cy="340" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="398" cy="326" r="6" fill="#0c1222" stroke="#2dd4bf" stroke-width="2.4"/>
+<circle cx="440" cy="300" r="11" fill="#2dd4bf"/>
+<rect x="560" y="256" width="100" height="88" rx="10" fill="#16203a" stroke="#fbbf24" stroke-width="2"/>
+<rect x="574" y="316" width="13" height="18" rx="2" fill="#fbbf24" fill-opacity="0.45"/>
+<rect x="594" y="306" width="13" height="28" rx="2" fill="#fbbf24" fill-opacity="0.63"/>
+<rect x="614" y="294" width="13" height="40" rx="2" fill="#fbbf24" fill-opacity="0.81"/>
+<rect x="634" y="278" width="13" height="56" rx="2" fill="#fbbf24" fill-opacity="0.99"/>
+<path d="M574 294 L606 282 L646 266 M636 264 L646 266 L642 276" fill="none" stroke="#e6ebf5" stroke-width="2.2"/>
+<path d="M166 300 L204 300 M196 294 L204 300 L196 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M336 300 L374 300 M366 294 L374 300 L366 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<path d="M506 300 L544 300 M536 294 L544 300 L536 306" fill="none" stroke="#a3aec8" stroke-width="2"/>
+<text x="100.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#a78bfa" text-anchor="middle">Data</text>
+<text x="100.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">analytics</text>
+<text x="270.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#60a5fa" text-anchor="middle">ML models</text>
+<text x="270.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">deep learning</text>
+<text x="440.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2dd4bf" text-anchor="middle">AI agents</text>
+<text x="440.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">LLMs, evals</text>
+<text x="610.0" y="382.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fbbf24" text-anchor="middle">Product</text>
+<text x="610.0" y="408.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#a3aec8" text-anchor="middle">and insight</text>
 </svg>

@@ -1,7 +1,7 @@
-<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. Building production AI agents and LLM applications." width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Alireza Taghizadeh: Principal AI Engineer at Configit. Turning data into ML models, AI agents and products people use." width="100%"/></p>
 
 <p align="center">
-  <b>Principal AI Engineer building production AI agents and LLM applications</b><br/>
+  <b>Data science · machine learning · agentic AI · product</b><br/>
   📍 Copenhagen, Denmark
 </p>
 
