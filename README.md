@@ -57,8 +57,8 @@ At Configit I build tool-using agents with planning, subagents and human approva
 I use Claude Code and Codex daily to go from written acceptance criteria to tested pull requests. I stay accountable for design, review, runtime QA and release.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/shipping-mobile.svg">
-  <img src="assets/shipping-desktop.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/>
+  <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/prs-mobile.svg">
+  <img src="assets/prs-desktop.svg" alt="Merged pull requests per quarter since Q3 2025, about six times more per month in 2026" width="100%"/>
 </picture>
 
 <picture>
