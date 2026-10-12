@@ -80,10 +80,6 @@ In 2020 I founded DivERS Tech to make hiring fairer with AI. We built tools that
 
 <p align="center"><img src="assets/toolbox.svg" alt="Tools used per year, 2009 to 2026" width="100%"/></p>
 
-### Side project
-
-<p align="center"><a href="https://github.com/alitaghub/langchain-feature"><img src="assets/project.svg" alt="langchain-feature: declare an agent feature once, as data, and compile it into a deepagents agent" width="100%"/></a></p>
-
 ### Research background
 
 Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials: 50+ papers, h-index 20, 2,100+ citations, and contributions to the open-source [GPAW](https://gpaw.readthedocs.io/) code. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
