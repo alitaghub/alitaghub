@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 464" width="100%" role="img" aria-label="Work experience timeline since 2013">
+<rect width="1100" height="464" rx="16" fill="#0c1222"/>
+<text x="32" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#7dd3fc">$ git log --career --oneline</text>
+<line x1="596.3" x2="596.3" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="596.3" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2014</text>
+<line x1="668.9" x2="668.9" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="668.9" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2016</text>
+<line x1="741.4" x2="741.4" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="741.4" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2018</text>
+<line x1="814.0" x2="814.0" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="814.0" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2020</text>
+<line x1="886.6" x2="886.6" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="886.6" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2022</text>
+<line x1="959.1" x2="959.1" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="959.1" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2024</text>
+<line x1="1031.7" x2="1031.7" y1="64" y2="424" stroke="#26304d" stroke-dasharray="2 4"/>
+<text x="1031.7" y="446" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">2026</text>
+<text x="32" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebf5">Principal AI Engineer · interim PO <tspan font-weight="400" fill="#fbbf24">· Configit</tspan></text>
+<text x="32" y="111" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">Lead architecture of Ace Prompt: deep agents, evals, guardrails</text>
+<rect x="1013.6" y="82" width="47.2" height="22" rx="6" fill="#fbbf24" fill-opacity="0.85"/>
+<text x="32" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebf5">Head of AI and Analytics <tspan font-weight="400" fill="#2dd4bf">· Brüel &amp; Kjær Vibro</tspan></text>
+<text x="32" y="169" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">Built and led an AI team of five; owned the AI roadmap</text>
+<rect x="959.1" y="140" width="52.6" height="22" rx="6" fill="#2dd4bf" fill-opacity="0.85"/>
+<text x="32" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebf5">Senior Data Scientist <tspan font-weight="400" fill="#2dd4bf">· Brüel &amp; Kjær Vibro</tspan></text>
+<text x="32" y="227" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">Deep learning for predictive maintenance, in production on AWS</text>
+<rect x="895.6" y="198" width="61.7" height="22" rx="6" fill="#2dd4bf" fill-opacity="0.85"/>
+<text x="32" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebf5">Founder and CTO <tspan font-weight="400" fill="#2dd4bf">· DivERS Tech</tspan></text>
+<text x="32" y="285" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">AI recruitment tools that reduce bias; raised 630k DKK in grants</text>
+<rect x="844.8" y="256" width="194.1" height="22" rx="6" fill="#2dd4bf" fill-opacity="0.85"/>
+<text x="32" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebf5">Data science <tspan font-weight="400" fill="#2dd4bf">· Liva Healthcare</tspan></text>
+<text x="32" y="343" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">ML on health records and wearables, in a regulated setting</text>
+<rect x="848.5" y="314" width="45.4" height="22" rx="6" fill="#2dd4bf" fill-opacity="0.85"/>
+<text x="32" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#93a0bd">PhD and postdoc <tspan font-weight="400" fill="#93a0bd">· DTU · Aalborg University</tspan></text>
+<text x="32" y="401" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a0bd">Computational physics and ML for materials · 50+ papers</text>
+<rect x="560.0" y="372" width="284.8" height="22" rx="6" fill="#93a0bd" fill-opacity="0.25"/>
+</svg>
