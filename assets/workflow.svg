@@ -12,7 +12,7 @@
 <text x="445.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">written first</text>
 <rect x="540.0" y="86" width="150" height="96" rx="12" fill="#16203a" stroke="#2dd4bf" stroke-width="2"/>
 <text x="615.0" y="128.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2dd4bf" text-anchor="middle">Build</text>
-<text x="615.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">Claude Code, Codex</text>
+<text x="615.0" y="160.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">Claude, Codex</text>
 <rect x="540.0" y="246" width="150" height="96" rx="12" fill="#16203a" stroke="#2dd4bf" stroke-width="2"/>
 <text x="615.0" y="288.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#2dd4bf" text-anchor="middle">Review</text>
 <text x="615.0" y="320.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#a3aec8" text-anchor="middle">parallel agents</text>
