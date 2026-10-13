@@ -22,7 +22,7 @@
 
 ### About me
 
-I lead the architecture and hands-on development of **Ace Prompt** at Configit, an AI assistant that helps engineers build product models. Before that I built and led a five-person AI team at Brüel & Kjær Vibro, worked in data science at Liva Healthcare, and founded DivERS Tech.
+I lead the architecture and hands-on development of **AcePrompt** at Configit, an AI assistant that helps engineers build product models. Before that I built and led a five-person AI team at Brüel & Kjær Vibro, was a senior data scientist at Liva Healthcare, and co-founded DivERS Tech.
 
 At Configit I build tool-using agents with planning, subagents and human approval at high-risk steps, on LangGraph and Azure. We use evaluations and trace review to catch regressions before release.
 
@@ -32,7 +32,7 @@ At Configit I build tool-using agents with planning, subagents and human approva
 
 **Configit** · Principal AI Engineer and interim Product Owner · 2025 to now
 
-- Lead architecture and development of Ace Prompt, bringing agentic AI to Configit's configuration platform.
+- Lead architecture and development of AcePrompt, bringing agentic AI to Configit's configuration platform.
 - Build tool-using deep agents with LangChain, LangGraph, TypeScript, Next.js and Azure.
 - Build agent evaluations, execution tracing and guardrails.
 - As interim Product Owner, turn customer needs into priorities, scope and delivery plans.
@@ -43,7 +43,7 @@ At Configit I build tool-using agents with planning, subagents and human approva
 - Owned the AI roadmap for predictive maintenance and anomaly detection.
 - Took deep learning time-series models from design to production with PyTorch, MLflow, FastAPI and AWS SageMaker.
 
-**Liva Healthcare** · Data science · 2020 to 2022
+**Liva Healthcare** · Senior Data Scientist · 2020 to 2022
 
 - Built ML and deep learning models on health records, behavioral data and wearables, in a regulated setting.
 
@@ -68,7 +68,7 @@ I use Claude Code and Codex daily to go from written acceptance criteria to test
 
 ### DivERS Tech
 
-Finding a job is painful, and hiring is full of bias. In 2020 I founded DivERS Tech to make recruitment fairer and more diverse with AI. The startup won Venture Cup's best digital startup award in Denmark and raised 630,000 DKK in public grants.
+Finding a job is painful, and hiring is full of bias. In 2020 I co-founded DivERS Tech to make recruitment fairer and more diverse with AI. The startup won Venture Cup's best digital startup award in Denmark and raised 630,000 DKK in public grants.
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/divers-phone.svg">
