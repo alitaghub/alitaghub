@@ -84,7 +84,7 @@ Finding a job is painful, and hiring is full of bias. In 2020 I co-founded DivER
 
 ### Research background
 
-Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials, and contributed to the open-source [GPAW](https://gpaw.readthedocs.io/) code. My 50+ papers have 2,200+ citations and an h-index of 20. Yearly citations grew every year from 2021 to 523 in 2025. I still collaborate with universities and co-supervise PhD and master's theses. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
+Before industry I did a PhD in photonics at DTU and a postdoc in ML for materials, and contributed to the open-source [GPAW](https://gpaw.readthedocs.io/) code. My 50+ papers have 2,300+ citations and an h-index of 20. Yearly citations grew every year from 2021 to 523 in 2025. I still collaborate with universities and co-supervise PhD and master's theses. See [Google Scholar](https://scholar.google.dk/citations?user=pPawr70AAAAJ).
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/alitaghub/alitaghub/raw/main/assets/citations-phone.svg">
@@ -93,4 +93,4 @@ Before industry I did a PhD in photonics at DTU and a postdoc in ML for material
 
 ### Connect
 
-Happy to talk about agent architecture, AI evals and shipping with coding agents. [Website and CV](https://alitaghub.github.io) · [LinkedIn](https://www.linkedin.com/in/alirezataghizadeh/) · [Email](mailto:a.r.taghizadeh@gmail.com)
+Happy to talk about agent architecture, AI evals and shipping with coding agents. [LinkedIn](https://www.linkedin.com/in/alirezataghizadeh/) · [Website and CV](https://alitaghub.github.io) · [Email](mailto:a.r.taghizadeh@gmail.com)
